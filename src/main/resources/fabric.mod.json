@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "legendofthecurse",
+	"version": "${version}",
+	"name": "Legend Of The Curse",
+	"description": "Mod inspired (actualy is a port) by Enigmatic legacy to fabric",
+	"authors": [
+		"Scandium"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/legendofthecurse/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"sc.legendofthecurse.LegendOfTheCurse"
+		],
+		"fabric-datagen": [
+			"sc.legendofthecurse.LegendOfTheCurseDataGenerator"
+		]
+	},
+	"mixins": [
+		"legendofthecurse.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.19.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

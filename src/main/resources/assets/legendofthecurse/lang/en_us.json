@@ -1,0 +1,27 @@
+{
+  "item.legendofthecurse.ring_of_the_curse": "Ring Of The Curse",
+
+  "tooltip.legendofthecurse.ringofthecurse_hover1": "The Curses will be sent on you:",
+  "tooltip.legendofthecurse.ringofthecurse_hover2": "1. Once on fire you will never go out",
+  "tooltip.legendofthecurse.ringofthecurse_hover3": "2. Neutral mobs are always agressive to you",
+  "tooltip.legendofthecurse.ringofthecurse_hover4": "3. You are less protected",
+  "tooltip.legendofthecurse.ringofthecurse_hover5": "4. You are less stable to injuries",
+  "tooltip.legendofthecurse.ringofthecurse_hover6": "5. You feel bad every time you try to sleep",
+  "tooltip.legendofthecurse.ringofthecurse_hover7": "6. You are weak after every your attack",
+  "tooltip.legendofthecurse.ringofthecurse_hover8": "7. Every death will tear your soul apart",
+  "tooltip.legendofthecurse.ringofthecurse_hover9": "You will get Blessings",
+  "tooltip.legendofthecurse.ringofthecurse_hover10": "1. You are lucky every time you mine or kill a mob",
+  "tooltip.legendofthecurse.ringofthecurse_hover11": "2. You get more xp after killing a mob",
+  "tooltip.legendofthecurse.ringofthecurse_hover12": "3. You are good at fishing",
+  "tooltip.legendofthecurse.ringofthecurse_hover13": "4. Any enchantment will be increased",
+  "tooltip.legendofthecurse.ringofthecurse_hover14": "5. You can wear unique artifacts",
+  "tooltip.legendofthecurse.ringofthecurse_hover15": "6. You can get unique drop from mobs",
+  "tooltip.legendofthecurse.ringofthecurse_hover16": "7. You can open ender chest anywhere you want",
+
+  "tooltip.legendofthecurse.ringofthecurse_info": "Once wear it is bind to you",
+  "tooltip.legendofthecurse.ringofthecurse_info1": "Press shift to reveal curses and Blessings",
+
+
+  "itemGroup.legendofthecurse.legend_of_the_curse": "Legend Of The Curse"
+
+}

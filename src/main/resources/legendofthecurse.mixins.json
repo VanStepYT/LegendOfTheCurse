@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "sc.legendofthecurse.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"LegendOfTheCurseMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
